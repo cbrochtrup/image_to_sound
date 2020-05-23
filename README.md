@@ -36,6 +36,11 @@ $ ./image_to_sound.py demo/demo.jpg --out_duration 5 --rescale 1 --out_file my_s
 
 command 3 shows the importance of rescaling (default 10) with most color images.
 
+#### Command 1
 ![Command 1](demo/demo_1.jpg)
+
+#### Command 2
 ![Command 2](demo/demo_2.jpg)
+
+#### Command 3
 ![Command 3](demo/demo_3.jpg)
