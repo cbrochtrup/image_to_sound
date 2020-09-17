@@ -1,4 +1,4 @@
-# Sound To Image
+# Image To Sound
 
 This code converts an image file to a sound by treating the image as a discrete time fourier transform and inverting it.
 
