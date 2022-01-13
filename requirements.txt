@@ -5,7 +5,7 @@ fire==0.3.1
 imageio==2.8.0
 kiwisolver==1.2.0
 matplotlib==3.2.1
-numpy==1.18.4
+numpy==1.21.0
 pillow==9.0.0
 pycparser==2.20
 pyparsing==2.4.7
